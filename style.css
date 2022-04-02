@@ -1,0 +1,95 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: slategrey;
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: lightpink;
+    <img src= "https://img.freepik.com/free-vector/strawberry-cartoon-sticker_152558-99.jpg">.hidden
+}
+
+#button2 {
+    background: bisque;
+}
+
+#button3 {
+    background: lightyellow;
+}
+
+#button4 {
+    background: #C1E1C1;
+}
+
+#button5 {
+    background: lightblue;
+}
+
+#button6 {
+    background: lavender;
+}
+
+#button1:active, #button1.lit {
+    background:red;
+}
+
+#button2:active, #button2.lit {
+    background:orange;
+}
+
+#button3:active, #button3.lit {
+    background:yellow;
+}
+
+#button4:active, #button4.lit {
+    background:green;
+}
+
+#button5:active, #button5.lit {
+    background:blue;
+}
+
+#button6:active, #button6.lit {
+    background:purple;
+}
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
