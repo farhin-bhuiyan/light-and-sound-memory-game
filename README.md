@@ -40,17 +40,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-Gif that shows if player won
+Gif that shows if player won<br>
+
 ![](https://i.imgur.com/NtCCAYo.gif)
 
-Gif that shows if player lost
+Gif that shows if player lost<br>
+
 ![](https://i.imgur.com/vQq4pYz.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random<br>
 https://www.w3schools.com/js/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
